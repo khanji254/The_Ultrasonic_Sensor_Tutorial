@@ -52,7 +52,7 @@ Feel free to contribute by submitting issues or pull requests. Follow the [Contr
 
 ## Authors
 
-- [Your Name]
+- [Glenn_Tech] -
 
 ## Acknowledgments
 
