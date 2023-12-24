@@ -59,5 +59,3 @@ Feel free to contribute by submitting issues or pull requests. Follow the [Contr
 Special thanks to the Arduino community and the contributors of relevant libraries.
 
 ---
-
-Customize this README according to your project details and add any specific information, images, or dependencies that might be relevant for users and contributors.
